@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hover_to_text_white:hover {
+    color: #334155 !important;
+    /* Change text color to white on hover */
+}
+
+.coer {
+    background: #f3f4f6 !important;
+}

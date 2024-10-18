@@ -1,0 +1,11 @@
+DB_TYPE = mysql
+DB_HOST = mysql-c901f57-omoniyioluwaseun22-a5cd.k.aivencloud.com
+DB_USERNAME = avnadmin
+DB_PASSWORD = AVNS_AS5-hyyaVlbcgvja1LK
+DB_PORT = 25603
+DB_NAME = defaultdb
+PORT = 8000
+SECRET_KEY = "express"
+EXPIRE_TIME = 28800
+SERVER_ADDRESS = "localhost"
+RESET_URL = "/reset_password" 
